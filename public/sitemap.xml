@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://stevenstetzler.com/curry/</loc>
+    <loc>http://stevenstetzler.com/recipes/curry/</loc>
     <lastmod>2021-01-04T14:29:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://stevenstetzler.com/categories/</loc>
+    <loc>http://stevenstetzler.com/recipes/categories/</loc>
   </url>
   
   <url>
-    <loc>http://stevenstetzler.com/</loc>
+    <loc>http://stevenstetzler.com/recipes/</loc>
   </url>
   
   <url>
-    <loc>http://stevenstetzler.com/tags/</loc>
+    <loc>http://stevenstetzler.com/recipes/tags/</loc>
   </url>
   
 </urlset>
