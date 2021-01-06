@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recipes</title>
-    <link>http://stevenstetzler.com/</link>
+    <link>http://stevenstetzler.com/recipes/</link>
     <description>Recent content on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://stevenstetzler.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://stevenstetzler.com/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curry</title>
-      <link>http://stevenstetzler.com/curry/</link>
+      <link>http://stevenstetzler.com/recipes/curry/</link>
       <pubDate>Mon, 04 Jan 2021 14:29:00 -0500</pubDate>
       
-      <guid>http://stevenstetzler.com/curry/</guid>
+      <guid>http://stevenstetzler.com/recipes/curry/</guid>
       <description>Curry</description>
     </item>
     
