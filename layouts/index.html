@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div id="home-jumbotron" class="jumbotron text-center jumbotron-fluid page-title">
+  <h1>{{ .Site.Title }}</h1>
+</div>
+
+<div class="row">
+  {{ range .Pages.ByPublishDate.Reverse }}
+  <div class="col-auto col-md mx-auto my-2">
+    <div class="card" style="width: 18rem;">
+      <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+      <div class="card-body">
+        <h5 class="card-title">{{ .Title }}</h5>
+        <p class="card-text">{{ .Summary }}</p>
+        <a class="btn btn-primary stretched-link" href="{{ .RelPermalink }}">Read</a>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

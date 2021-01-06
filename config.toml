@@ -1,0 +1,18 @@
+baseURL = "http://stevenstetzler.com"
+languageCode = "en-us"
+title = "Recipes"
+
+[params]
+
+[permalinks]
+  blog = "/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
