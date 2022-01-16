@@ -11,7 +11,7 @@ summary: Perhaps not technically a stir fry
 - 4 tbsp or 1/4 cup oil
 - 1 lb extra firm tofu
 - 1 lb fresh or frozen vegetables[^vegetables]
-- 1/2 cornstarch
+- 1/2 cup cornstarch
 - salt
 - pepper
 - ground ginger
