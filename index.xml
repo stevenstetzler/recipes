@@ -7,12 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://stevenstetzler.com/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Tofu and Vegetable Stir Fry</title>
+      <link>http://stevenstetzler.com/recipes/stir-fry/</link>
+      <pubDate>Sat, 15 Jan 2022 21:19:45 -0500</pubDate>
+      
+      <guid>http://stevenstetzler.com/recipes/stir-fry/</guid>
+      <description>Perhaps not technically a stir fry</description>
+    </item>
+    
+    <item>
       <title>Curry</title>
       <link>http://stevenstetzler.com/recipes/curry/</link>
       <pubDate>Mon, 04 Jan 2021 14:29:00 -0500</pubDate>
       
       <guid>http://stevenstetzler.com/recipes/curry/</guid>
-      <description>Curry</description>
+      <description>A conglomeration of several curry recipes</description>
     </item>
     
   </channel>
