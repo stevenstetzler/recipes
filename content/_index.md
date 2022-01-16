@@ -2,5 +2,4 @@
 title: "Recipes"
 ---
 
-
 Home page

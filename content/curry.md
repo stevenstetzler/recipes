@@ -2,7 +2,7 @@
 title: "Curry"
 date: 2021-01-04T14:29:00-05:00
 draft: false
-summary: Curry
+summary: A conglomeration of several curry recipes
 ---
 
 ## Ingredients
@@ -31,12 +31,12 @@ summary: Curry
 ## Instructions
 
 1. Remove stems from peppers and dice (discard seeds for reduced heat). Press garlic to peel and remove stem with knife. Rinse cilantro and chop, removing stems and retaining leaves.
-2. Add garlic, cilantro, tomatoes, peppers, and ginger to blender and blend until smooth. When onions are done, add to mix and blend.
-3. Cook onion in oil in large pan until translucent or browning at the edges. Once cooked, add dry spices to pan and toast for 30 seconds to a minute.
-4. Add spiced onion to mix and blend. Return blended mix to the pan and bring to a simmer.
+2. Cook onion in oil in large pan until translucent or browning at the edges. Once cooked, add dry spices to pan and toast for 30 seconds to a minute.
+3. Add garlic, cilantro, tomatoes, peppers, and ginger to blender and blend until smooth. When onions are done, add to mix and blend.[^blend]
+4. Return blended mix to the pan and bring to a simmer.
 5. Add coconut milk, chickpeas, and optional add-ins to pan, mix, and bring to a simmer. If adding coconut meat/almonds, cook until softened.
 6. Add brussel sprouts and cook until tender. Cooking time will vary based on substitution.
-7. Add salt and garam masala until it tastes good.
+7. Add salt and garam masala until it tastes as desired. 1 tsp is likely enough.
 
 ## Notes
 
@@ -46,3 +46,4 @@ summary: Curry
 [^fat]: can be swapped with another fat: 1 cup plain yoghurt or heavy whipping cream based on preference
 [^protein]: can be swapped for other legume, a pre-cooked meat (can also be simmered in the curry until cooked), or tofu based on preference
 [^vegetables]: can be swapped for other vegetables like broccoli, spinach, kale, etc. based on preference
+[^blend]: When using a small blender, I typically only add enough tomatoes so that blending is possible. (The liquid from the tomatoes fascilitates blending.) Additionally, I only add a fraction of the onions so I don't overfill the blender.
